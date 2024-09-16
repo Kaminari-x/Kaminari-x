@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaminari-x
-- 👀 I’m interested in video games and anime
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : abdullahijaiyeola28@gmail.com
